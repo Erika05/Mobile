@@ -1,0 +1,7 @@
+[caps]
+platformName = "Android"
+deviceName = "Nexus 5X"
+app = '\QANinja2\mobile\app-debug.apk'
+appPackage = "com.inducesmile.androidecommerceshop"
+
+

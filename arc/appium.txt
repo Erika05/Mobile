@@ -1,0 +1,6 @@
+[caps]
+platformName = "Android"
+deviceName = "0031411243"
+app = '\QANinja2\mobile\app-debug.apk'
+appPackage = "com.inducesmile.androidecommerceshop"
+
